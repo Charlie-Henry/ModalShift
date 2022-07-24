@@ -5,12 +5,11 @@ excerpt_separator: <!--more-->
 ---
 
 Comparing Austin's micromobility trips to some other cities.
-
 <!--more-->
 
 I've been [tracking](http://modalshift.co/COVID19/) Austin's micromobility (dockless scooters, bicycles) trips since the beginning of the pandemic back in April 2020. The original source of this data has since gone a little stale, but need not worry because we have a new source of data. The new data is sourced from the [RideReport Open Data Portal](https://public.ridereport.com/)
 
-They also are tracking a dozen other cities, so I've made a [script](https://github.com/Charlie-Henry/ModalShift/code/micromobility-data-script) to go ahead and compare Austin to other cities.
+They also are tracking a dozen other cities, so I've made a [script](https://github.com/Charlie-Henry/ModalShift/blob/master/code/micromobility-data-script/get-trip-totals.py) to go ahead and compare Austin to other cities.
 
 ***
 
