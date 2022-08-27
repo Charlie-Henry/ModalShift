@@ -65,4 +65,6 @@ I'm using Google Cloud Functions to train my model, do my forecast, create the i
 
 [It tweets the results daily here](https://twitter.com/ForecastAUS)
 
+<a class="twitter-timeline" href="https://twitter.com/ForecastAUS?ref_src=twsrc%5Etfw">Tweets by ForecastAUS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Charlie
