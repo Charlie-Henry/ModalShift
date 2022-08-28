@@ -25,11 +25,7 @@ For these daily predictions, I use a form of time series modeling called SARIMA.
 
 A SARIMA model takes in parameters for each of these sub-models and combines them to make predictions. It is typically written as:
 
-$$
-
 SARIMA =(p, d, q) x (P, D, Q, S)
-
-$$
 
 S is the period of the seasonal parameter, in this case we're using 7 to account for the day-of-week effects of passenger volumes.
 
@@ -37,11 +33,8 @@ To pick parameters for SARIMA, we simply do a grid-search of P,D,Q,p,d,q paramet
 
 The most optimal found for grid search in space 0 to 2:
 
-$$
 
 SARIMA =(2, 1, 2) x (0, 1, 2, 7)
-
-$$
 
 ***
 
