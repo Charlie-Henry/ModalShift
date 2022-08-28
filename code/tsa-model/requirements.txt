@@ -1,0 +1,5 @@
+tweepy==4.10.*
+plotly==5.9.*
+pandas==1.3.*
+statsmodels==0.13.*
+kaleido==0.2.*
