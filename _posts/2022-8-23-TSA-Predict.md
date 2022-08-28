@@ -27,7 +27,7 @@ A SARIMA model takes in parameters for each of these sub-models and combines the
 
 $$
 
-SARIMA =(p, d, q) \times (P, D, Q, S)
+SARIMA =(p, d, q) x (P, D, Q, S)
 
 $$
 
@@ -39,7 +39,7 @@ The most optimal found for grid search in space 0 to 2:
 
 $$
 
-SARIMA =(2, 1, 2) \times (0, 1, 2, 7)
+SARIMA =(2, 1, 2) x (0, 1, 2, 7)
 
 $$
 
