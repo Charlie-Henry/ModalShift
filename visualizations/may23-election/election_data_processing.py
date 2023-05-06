@@ -3,7 +3,8 @@ import geopandas as gpd
 
 
 precincts = gpd.read_file('election_pcts_coa.geojson',index_col='pct')
-precincts = precincts.set_index("PCTCODE")
+precincts["Precinct"] = precincts["Precinct"].astype(int)
+precincts = precincts.set_index("Precinct")
 data = pd.read_csv('mayor-runoff.csv',index_col='pct')
 pct_merge = precincts.merge(data, left_index=True, right_index=True,how='left')
 
