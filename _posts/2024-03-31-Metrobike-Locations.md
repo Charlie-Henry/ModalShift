@@ -8,6 +8,8 @@ Using data to estimate good places for new MetroBike kiosk locations.
 
 <!--more-->
 
+*Disclaimer: This is a personal project of mine. Not an official project of CapMetro or the City of Austin*
+
 Austin's docked bike share system received [$11.3 million from TxDOT last year](https://www.austintexas.gov/news/austins-metrobike-program-gets-113m-boost-txdot-grant) to help expand. I'm a big fan of the service, but like a lot of Austinites I no longer live near any of the kiosks. So I wanted to see what locations I could suggest using data.
 
 ## Methodology 
@@ -16,6 +18,7 @@ I ranked every census block group in the Austin region by four measures: transit
 
 If you want to play with these weights and test different results, try my tool I created for this [here](https://app.hex.tech/85e3aa70-9c96-4e48-9c72-d7abe0c41315/app/a04d424f-65ee-4ba6-bccd-e65ac63b5e47/latest).
 
+The code I wrote for this project is located in this [repo](https://github.com/Charlie-Henry/metrobike-expansion).
 
 ## Data Sources:
 
@@ -159,10 +162,12 @@ Parks:
 
 
 Why it makes sense:
-- 
+- High existing demand near downtown
+- Transit service (322)
 
 Parks:
-- 
+- Festival Beach
+- Town Lake
 
 ## 12 and 13. More of West Campus
 
