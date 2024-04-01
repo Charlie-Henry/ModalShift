@@ -47,7 +47,7 @@ https://austin.maps.arcgis.com/home/item.html?id=0a095a37ea8a4eb8b835a888f00ef53
 
 ## 1. South Congress & Oltorf
 
-![South Congress & Oltorf area map]({{site.baseurl}}/images/metrobike-expansion/no_1_484530023081.png){:style="display:block; margin-left:auto; margin-right:auto",:height="350"}
+![South Congress & Oltorf area map]({{site.baseurl}}/images/metrobike-expansion/no_1_484530023081.png){:style="display:block; margin-left:auto; margin-right:auto" :height="350"}
 
 Why it makes sense:
 - High frequency transit (route 801/1) 
