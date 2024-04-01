@@ -24,23 +24,21 @@ The code I wrote for this project is located in this [repo](https://github.com/C
 
 ### Walkability
 
-The Environmental Protection Agency (EPA) provides walkability estimates for census block groups: https://www.epa.gov/smartgrowth/smart-location-mapping#walkability
+The Environmental Protection Agency (EPA) [provides walkability estimates](https://www.epa.gov/smartgrowth/smart-location-mapping#walkability) for census block groups
 
 ### Transit Access
 
-The EPA also estimates transit access in meters by census block groups:
-https://www.epa.gov/smartgrowth/smart-location-mapping#Trans45
+The EPA also [estimates transit access in meters](https://www.epa.gov/smartgrowth/smart-location-mapping#Trans45) by census block groups
 
 
 ### Micromobility Trips
 
-The number of micromobility trips (dockless scooters/bicycles) started or ended in a census tract. Data is provided by the City of Austin:
-https://data.austintexas.gov/d/7d8e-dm7r
+The number of micromobility trips (dockless scooters/bicycles) started or ended in a census tract. Data is [provided by the City of Austin](https://data.austintexas.gov/d/7d8e-dm7r
+)
 
 ### Equity
 
-A vulnerability index based on several census tract-level fields. Provided by the City of Austin
-https://austin.maps.arcgis.com/home/item.html?id=0a095a37ea8a4eb8b835a888f00ef53f
+A vulnerability index based on several census tract-level fields. [Provided by the City of Austin](https://austin.maps.arcgis.com/home/item.html?id=0a095a37ea8a4eb8b835a888f00ef53f)
 
 
 # Top 20 expansion locations
