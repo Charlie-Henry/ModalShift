@@ -142,9 +142,9 @@ Parks:
 *I combined 9, 11, and 14 as they are neighbors.*
 
 {: .center}
-![south 5th area map 1]({{site.baseurl}}/images/metrobike-expansion/no_9_484530013072.png){:height="400"}
-![south 5th area map 2]({{site.baseurl}}/images/metrobike-expansion/no_11_484530013052.png){:height="400"}
-![south 5th area map 3]({{site.baseurl}}/images/metrobike-expansion/no_14_484530013054.png){:height="400"}
+![south 5th area map 1]({{site.baseurl}}/images/metrobike-expansion/no_9_484530013072.png){:height="280"}
+![south 5th area map 2]({{site.baseurl}}/images/metrobike-expansion/no_11_484530013052.png){:height="280"}
+![south 5th area map 3]({{site.baseurl}}/images/metrobike-expansion/no_14_484530013054.png){:height="280"}
 
 Why it makes sense:
 - High existing demand 
