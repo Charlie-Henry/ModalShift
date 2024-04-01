@@ -12,6 +12,8 @@ Using data to estimate good places for new MetroBike kiosk locations.
 
 Austin's docked bike share system received [$11.3 million from TxDOT last year](https://www.austintexas.gov/news/austins-metrobike-program-gets-113m-boost-txdot-grant) to help expand. I'm a big fan of the service, but like a lot of Austinites I no longer live near any of the kiosks. So I wanted to see what locations I could suggest using data.
 
+***
+
 ## Methodology 
 
 I ranked every census block group in the Austin region by four measures: transit, walkability, micromobility demand, and equity. Each census block group was ranked on these four measures and a better ranking transferred a higher score for the block group. I weighted the four measures as such: 35% for transit, 20% for walkability, 35% for micromobility, and 10% for equity. 
@@ -40,6 +42,8 @@ The number of micromobility trips (dockless scooters/bicycles) started or ended 
 
 A vulnerability index based on several census tract-level fields. [Provided by the City of Austin](https://austin.maps.arcgis.com/home/item.html?id=0a095a37ea8a4eb8b835a888f00ef53f)
 
+
+***
 
 # Top 20 expansion locations
 
