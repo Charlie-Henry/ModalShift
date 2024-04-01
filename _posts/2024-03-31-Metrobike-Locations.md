@@ -48,7 +48,7 @@ https://austin.maps.arcgis.com/home/item.html?id=0a095a37ea8a4eb8b835a888f00ef53
 ## 1. South Congress & Oltorf
 
 {: .center}
-![South Congress & Oltorf area map]({{site.baseurl}}/images/metrobike-expansion/no_1_484530023081.png){:height="300"}
+![South Congress & Oltorf area map]({{site.baseurl}}/images/metrobike-expansion/no_1_484530023081.png){:height="400"}
 
 Why it makes sense:
 - High frequency transit (route 801/1) 
@@ -61,7 +61,8 @@ Two parks:
 
 ## 2. Oltorf & Parker
 
-![Oltorf & Parker area map]({{site.baseurl}}/images/metrobike-expansion/no_2_484530023074.png)
+{: .center}
+![Oltorf & Parker area map]({{site.baseurl}}/images/metrobike-expansion/no_2_484530023074.png){:height="400"}
 
 Why it makes sense:
 - High frequency transit (route 7) 
@@ -72,7 +73,8 @@ Parks:
 
 ## 3. Bolm District
 
-![Bolm district area map]({{site.baseurl}}/images/metrobike-expansion/no_3_484530021113.png)
+{: .center}
+![Bolm district area map]({{site.baseurl}}/images/metrobike-expansion/no_3_484530021113.png){:height="400"}
 
 Why it makes sense:
 - Near to eastside bus plaza kiosk
@@ -89,9 +91,9 @@ Parks:
 
 *I combined 4 and 5 as they are neighbors to each other.*
 
-![Rio grande area map]({{site.baseurl}}/images/metrobike-expansion/no_4_484530006033.png)
-
-![Longview area map]({{site.baseurl}}/images/metrobike-expansion/no_5_484530006032.png)
+{: .center}
+![Rio grande area map]({{site.baseurl}}/images/metrobike-expansion/no_4_484530006033.png){:height="400"}
+![Longview area map]({{site.baseurl}}/images/metrobike-expansion/no_5_484530006032.png){:height="400"}
 
 Why it makes sense:
 - Existing kiosks north and south
@@ -108,9 +110,9 @@ Parks:
 
 *I combined 6 and 8 as they are neighbors to each other.*
 
-![Rosewood area map]({{site.baseurl}}/images/metrobike-expansion/no_6_484530008023.png)
-
-![Govalle area map]({{site.baseurl}}/images/metrobike-expansion/no_8_484530008011.png)
+{: .center}
+![Rosewood area map]({{site.baseurl}}/images/metrobike-expansion/no_6_484530008023.png){:height="400"}
+![Govalle area map]({{site.baseurl}}/images/metrobike-expansion/no_8_484530008011.png){:height="400"}
 
 Why it makes sense:
 - Eastside early college HS
@@ -124,7 +126,8 @@ Parks:
 
 ## 7. Speedway & 31st
 
-![Speedway area map]({{site.baseurl}}/images/metrobike-expansion/no_7_484530005001.png)
+{: .center}
+![Speedway area map]({{site.baseurl}}/images/metrobike-expansion/no_7_484530005001.png){:height="400"}
 
 Why it makes sense:
 - High existing demand near UT
@@ -138,11 +141,10 @@ Parks:
 
 *I combined 9, 11, and 14 as they are neighbors.*
 
-![south 5th area map 1]({{site.baseurl}}/images/metrobike-expansion/no_9_484530013072.png)
-
-![south 5th area map 2]({{site.baseurl}}/images/metrobike-expansion/no_11_484530013052.png)
-
-![south 5th area map 3]({{site.baseurl}}/images/metrobike-expansion/no_14_484530013054.png)
+{: .center}
+![south 5th area map 1]({{site.baseurl}}/images/metrobike-expansion/no_9_484530013072.png){:height="400"}
+![south 5th area map 2]({{site.baseurl}}/images/metrobike-expansion/no_11_484530013052.png){:height="400"}
+![south 5th area map 3]({{site.baseurl}}/images/metrobike-expansion/no_14_484530013054.png){:height="400"}
 
 Why it makes sense:
 - High existing demand 
@@ -157,9 +159,9 @@ Parks:
 
 *I combined 10 and 17 as they are neighbors.*
 
-![holly area map 1]({{site.baseurl}}/images/metrobike-expansion/no_10_484530010001.png)
-
-![holly area map 2]({{site.baseurl}}/images/metrobike-expansion/no_17_484530010002.png)
+{: .center}
+![holly area map 1]({{site.baseurl}}/images/metrobike-expansion/no_10_484530010001.png){:height="400"}
+![holly area map 2]({{site.baseurl}}/images/metrobike-expansion/no_17_484530010002.png){:height="400"}
 
 
 Why it makes sense:
@@ -174,10 +176,9 @@ Parks:
 
 *I combined 10 and 17 as they are neighbors.*
 
-
-![west campus area map 1]({{site.baseurl}}/images/metrobike-expansion/no_12_484530006041.png)
-
-![west campus area map 2]({{site.baseurl}}/images/metrobike-expansion/no_13_484530006034.png)
+{: .center}
+![west campus area map 1]({{site.baseurl}}/images/metrobike-expansion/no_12_484530006041.png){:height="400"}
+![west campus area map 2]({{site.baseurl}}/images/metrobike-expansion/no_13_484530006034.png){:height="400"}
 
 Why it makes sense:
 - High existing demand
@@ -190,8 +191,8 @@ Parks:
 
 ## 15. East MLK
 
-![east mlk area map 1]({{site.baseurl}}/images/metrobike-expansion/no_15_484530021091.png)
-
+{: .center}
+![east mlk area map 1]({{site.baseurl}}/images/metrobike-expansion/no_15_484530021091.png){:height="400"}
 
 Why it makes sense:
 - Transit routes (350, 18)
@@ -201,8 +202,8 @@ Parks:
 
 ## 16. Highland
 
-![highland area map 1]({{site.baseurl}}/images/metrobike-expansion/no_16_484530015034.png)
-
+{: .center}
+![highland area map 1]({{site.baseurl}}/images/metrobike-expansion/no_16_484530015034.png){:height="400"}
 
 Why it makes sense:
 - Transit hub (red line, 7, 337)
@@ -212,8 +213,8 @@ Why it makes sense:
 
 ## 18. MLK-Manor
 
-![mlk manor area map 1]({{site.baseurl}}/images/metrobike-expansion/no_18_484530004023.png)
-
+{: .center}
+![mlk manor area map 1]({{site.baseurl}}/images/metrobike-expansion/no_18_484530004023.png){:height="400"}
 
 Why it makes sense:
 - Transit service (Red line, 18, 20)
@@ -225,8 +226,8 @@ Parks:
 
 ## 19. Riverside & Pleasant Valley
 
-![riverside area map 1]({{site.baseurl}}/images/metrobike-expansion/no_19_484530023181.png)
-
+{: .center}
+![riverside area map 1]({{site.baseurl}}/images/metrobike-expansion/no_19_484530023181.png){:height="400"}
 
 Why it makes sense:
 - Transit service (20, 670, 671, 311)
@@ -236,8 +237,8 @@ Parks:
 
 ## 20. Georgian Acres
 
-![georgian area map 1]({{site.baseurl}}/images/metrobike-expansion/no_20_484530018061.png)
-
+{: .center}
+![georgian area map 1]({{site.baseurl}}/images/metrobike-expansion/no_20_484530018061.png){:height="400"}
 
 Why it makes sense:
 - Transit service (801/1)
@@ -246,4 +247,5 @@ Parks:
 - Georgian Acres Neighborhood Park
 
 
-![all areas map]({{site.baseurl}}/images/metrobike-expansion/all_areas.png)
+{: .center}
+![all areas map]({{site.baseurl}}/images/metrobike-expansion/all_areas.png){:height="400"}
