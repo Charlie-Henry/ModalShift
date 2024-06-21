@@ -8,7 +8,7 @@ After collecting data for over a year, who are the most (and least) reliable air
 
 <!--more-->
 
-After The Points Guy released his [best airline rankings](https://thepointsguy.com/news/best-us-airlines-2024/), I was interested in what my rankings would be here in Austin. Included in his [lengthy methodology](https://thepointsguy.com/review-methodology/) is perks like lounges and credit cards which really don't matter much to me. What matters to me, especially when traveling domestic, is **reliability**. 
+After The Points Guy released his [best airline rankings](https://thepointsguy.com/news/best-us-airlines-2024/), I was interested in what my rankings would be here in Austin. Included in his [lengthy methodology](https://thepointsguy.com/review-methodology/) are perks like lounges and credit cards which really don't matter much to me. What matters to me, especially when traveling domestic, is **reliability**. 
 
 Methodology:
 - I only included the 10 main US airlines The Points Guy considered
@@ -23,7 +23,7 @@ Methodology:
 ## 1. Delta Airlines
 
 {: .center}
-![Delta flight network map]({{site.baseurl}}/images/flight_networks/dl.gif){:height="400"}
+![Delta flight network map]({{site.baseurl}}/images/flight_networks/dl.gif)
 *Delta's Current Flight Network from AUS*
 
 Stats:
@@ -40,7 +40,7 @@ Delta's [marketing has clearly made reliability a focus](https://news.delta.com/
 ## 2. Alaska Airlines
 
 {: .center}
-![Alaska flight network map]({{site.baseurl}}/images/flight_networks/as.gif){:height="400"}
+![Alaska flight network map]({{site.baseurl}}/images/flight_networks/as.gif)
 *Alaska's Current Flight Network from AUS*
 
 Stats:
@@ -50,14 +50,14 @@ Stats:
 - Cancelled: 1.9%
 - *The Points Guy* Ranking: #2
 
-The primarily Seattle-based airline's route network is considerably smaller than many others on this list. Only offering flights to Seattle, Portland, the SF Bay Area, and San Diego. Alaska has a very solid on-time performance but coupled with a relatively high cancellation rate. However, you aren't stranded with Alaska as they [somewhat recently](https://www.oneworld.com/news/2020-07-23-Alaska-Airlines-to-join-oneworld) joined the OneWorld codeshare alliance. Which allows them to rebook you much more easily on other airlines such as American, if your flight is cancelled. We'll see later there exists several airlines on this list that do not have such an option.
+The primarily Seattle-based airline's route network is considerably smaller than many others on this list. Only offering flights to Seattle, Portland, the SF Bay Area, and San Diego. Alaska has a very solid on-time performance but coupled with a relatively high cancellation rate. However, you aren't stranded with Alaska as they [somewhat recently](https://www.oneworld.com/news/2020-07-23-Alaska-Airlines-to-join-oneworld) joined the OneWorld codeshare alliance. Which allows them to rebook you much more easily on other airlines such as American, if your flight is cancelled. 
 
 Alaska is pretty clearly a solid option if you're heading to any of the states along the Pacific.
 
 ## 3. Hawaiian Airlines
 
 {: .center}
-![Hawaiian flight network map]({{site.baseurl}}/images/flight_networks/ha.gif){:height="400"}
+![Hawaiian flight network map]({{site.baseurl}}/images/flight_networks/ha.gif)
 *Hawaiian's Current Flight Network from AUS*
 
 Stats:
@@ -67,14 +67,14 @@ Stats:
 - Cancelled: 0.6%
 - *The Points Guy* Ranking: #7
 
-Hawaiian Airlines only has one destination from Austin, Honolulu which it serves only every other day on average. So, clearly not necessarily a fair comparison to the other airlines on this list. However, I was impressed by this 8.5 hour flight being on-time as frequent as it is. Other transatlantic routes out of Austin are some of the most frequently cancelled flights and are pretty frequently late. I took this flight a few years back and was pretty impressed. It just makes it that much easier to get to a gorgeous destination. Which is great because Hawaiian also had the lowest cancellation rate.
+Hawaiian Airlines only has one destination from Austin, Honolulu, which it serves only every other day on average. So, clearly not necessarily a fair comparison to the other airlines on this list. However, I was impressed by this 8.5 hour flight being on-time as frequent as it is. Other transatlantic routes out of Austin are some of the most frequently cancelled flights and are pretty frequently late. I took this flight a few years back and was pretty impressed. Coming in with the lowest cancellation rate in AUS, it makes it that much easier to get to a gorgeous destination when you're expecting to.
 
-This is where I first differ from the *The Points Guy*, who dings them for the lack of destinations which is understandable until you realize you're complaining about a network that always ends up in Hawaii.
+This is where I first differ from *The Points Guy*, who dings them for the lack of destinations, which is understandable until you realize you're complaining about a network that always ends up in Hawaii.
 
 ## 4. Allegiant Air
 
 {: .center}
-![Hawaiian flight network map]({{site.baseurl}}/images/flight_networks/g4.gif){:height="400"}
+![Hawaiian flight network map]({{site.baseurl}}/images/flight_networks/g4.gif)
 *Allegiant's Current Flight Network from AUS*
 
 Stats:
@@ -84,14 +84,14 @@ Stats:
 - Cancelled: 0.6%
 - *The Points Guy* Ranking: #8
 
-Allegiant is a ultra-low-cost carrier that has a ton of destinations it serves only a few times a week. It, along with Frontier, are based out of the South Terminal ([for the time being](https://www.kut.org/transportation/2023-06-01/austin-pays-88-million-to-settle-legal-fight-over-abias-south-terminal-demolition)). It also started basing crews out of Austin [back in 2021](https://www.austintexas.gov/news/allegiant-announces-aircraft-and-crew-base-austin). 
+Allegiant is an ultra-low-cost carrier that has a ton of destinations it serves only a few times a week. It, along with Frontier, is based out of the South Terminal ([for the time being](https://www.kut.org/transportation/2023-06-01/austin-pays-88-million-to-settle-legal-fight-over-abias-south-terminal-demolition)). It also started basing crews out of Austin [back in 2021](https://www.austintexas.gov/news/allegiant-announces-aircraft-and-crew-base-austin). 
 
-The ultra-low-cost carrier business model has really been viewed as anti-consumer and *The Points Guy* dings them for this. However, Allegiant was also praised for their best nation-wide reliability. Allegiant offers pretty affordable fares but also doesn't allow for more complex bookings like connecting flights. This likely contributes to more streamlined operations and a pretty reliable airline. Other ULCs, Spirit and Frontier lag way behind Allegaint's lead.
+The ultra-low-cost carrier(ULCC) business model has really been viewed as anti-consumer, and *The Points Guy* dings them for this. However, Allegiant was also praised for their best nation-wide reliability. Allegiant offers pretty affordable fares, but also doesn't allow for more complex bookings like connecting flights. This likely contributes to more streamlined operations and a pretty reliable airline. Other ULCCs like Spirit and Frontier lag way behind Allegaint's lead.
 
 ## 5. United Airlines
 
 {: .center}
-![United flight network map]({{site.baseurl}}/images/flight_networks/ua.gif){:height="400"}
+![United flight network map]({{site.baseurl}}/images/flight_networks/ua.gif)
 *United's Current Flight Network from AUS*
 
 Stats:
@@ -108,7 +108,7 @@ With a pretty respectable on-time rate but high cancellation rate. 2 out of ever
 ## 6. Southwest Airlines
 
 {: .center}
-![Southwest flight network map]({{site.baseurl}}/images/flight_networks/wn.gif){:height="400"}
+![Southwest flight network map]({{site.baseurl}}/images/flight_networks/wn.gif)
 *Southwest's Current Flight Network from AUS*
 
 Stats:
@@ -125,7 +125,7 @@ The low cancellation rate, with a low on-time performance is likely by design. A
 ## 7. American Airlines
 
 {: .center}
-![American flight network map]({{site.baseurl}}/images/flight_networks/aa.gif){:height="400"}
+![American flight network map]({{site.baseurl}}/images/flight_networks/aa.gif)
 *American's Current Flight Network from AUS*
 
 Stats:
@@ -142,7 +142,7 @@ American offered the second-most flights in the past year. This makes American, 
 ## 8. Spirit Airlines
 
 {: .center}
-![Spirit flight network map]({{site.baseurl}}/images/flight_networks/nk.gif){:height="400"}
+![Spirit flight network map]({{site.baseurl}}/images/flight_networks/nk.gif)
 *Spirit's Current Flight Network from AUS*
 
 Stats:
@@ -157,7 +157,7 @@ Spirit, like Allegiant and Frontier are ultra-low-cost carriers. Spirit flies mo
 ## 9. Frontier Airlines
 
 {: .center}
-![Frontier flight network map]({{site.baseurl}}/images/flight_networks/f9.gif){:height="400"}
+![Frontier flight network map]({{site.baseurl}}/images/flight_networks/f9.gif)
 *Frontier's Current Flight Network from AUS*
 
 Stats:
@@ -172,7 +172,7 @@ Frontier's small network out of AUS, coupled with terrible performance really sh
 ## 10. JetBlue Airways
 
 {: .center}
-![Frontier flight network map]({{site.baseurl}}/images/flight_networks/b6.gif){:height="400"}
+![Frontier flight network map]({{site.baseurl}}/images/flight_networks/b6.gif)
 *Frontier's Current Flight Network from AUS*
 
 Stats:
