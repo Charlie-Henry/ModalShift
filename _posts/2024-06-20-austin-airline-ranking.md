@@ -101,9 +101,9 @@ Stats:
 - Cancelled: 2.0%
 - *The Points Guy* Ranking: #3
 
-United only offers frequent flights to all of their main US hubs out of AUS. United's route network couldn't be more stark of a difference to Allegiant's who offers low-frequency routes to smaller tourist-y airports. 
+United only offers frequent flights to all of their main US hubs out of AUS. United's route network couldn't be more stark of a difference to Allegiant's: who offers low-frequency routes to smaller tourist-y airports. 
 
-With a pretty respectable on-time rate but high cancellation rate. 2 out of every 100 flights being cancelled is fairly high but as they offer multiple flights a day to their hubs, you likely won't have to be waiting around long before you're rebooked. United was hit particularly hard last summer with cancellations out of its Newark and Chicago hub mainly due to air traffic control staffing shortages, [which is expected to repeat again this summer](https://simpleflying.com/new-york-flights-reduced-air-traffic-control-shortage/).
+With a pretty respectable on-time rate but high cancellation rate, 2 out of every 100 flights being cancelled is fairly high but as they offer multiple flights a day to their hubs, you likely won't have to be waiting around long before you're rebooked. United was hit particularly hard last summer with cancellations out of its Newark and Chicago hub, mainly due to air traffic control staffing shortages, [which are expected to repeat again this summer](https://simpleflying.com/new-york-flights-reduced-air-traffic-control-shortage/).
 
 ## 6. Southwest Airlines
 
@@ -120,7 +120,7 @@ Stats:
 
 Southwest is the biggest carrier out of Austin and has been for quite some time. It offers an often-varying list of destinations including some international destinations. Southwest definitely has a cult-like following, especially here in Texas. The lack of checked bag fees and lack of assigned seating (I don't get it) is attractive. 
 
-The low cancellation rate, with a low on-time performance is likely by design. As much of [America learned two winters ago](https://en.wikipedia.org/wiki/2022_Southwest_Airlines_scheduling_crisis), Southwest really has no backup plan if you're stranded somewhere. Southwest has no way to book you on a different airline as well. This causes them to really resist cancelling flights that are several hours late as it causes a cascading issue throughout their point-to-point network. It's really the first airline on this list I try to go out of my way to avoid flying. Oh and they're finally on flight search tools like Google Flights after decades of resisting it.
+The low cancellation rate with a low on-time performance is likely by design. As much of [America learned two winters ago](https://en.wikipedia.org/wiki/2022_Southwest_Airlines_scheduling_crisis), Southwest really has no backup plan if you're stranded somewhere. Southwest has no way to book you on a different airline as well. This causes them to really resist cancelling flights that are several hours late as it causes a cascading issues throughout their point-to-point network. It's really the first airline on this list I try to go out of my way to avoid flying. Oh, and they're finally on flight search tools like Google Flights after decades of resisting it.
 
 ## 7. American Airlines
 
@@ -135,7 +135,7 @@ Stats:
 - Cancelled: 0.8%
 - *The Points Guy* Ranking: #4
 
-American offers a pretty interesting array of destinations from its main hub airports to the mountains of Colorado and international beach destinations. In November, American [cut 21 flights from AUS](https://thepointsguy.com/news/american-airlines-cuts-austin-routes/). These cuts didn't really save the airlines relatively poor performance record at AUS. 
+American offers a pretty interesting array of destinations from its main hub airports, to the mountains of Colorado, and international beach destinations. In November, American [cut 21 flights from AUS](https://thepointsguy.com/news/american-airlines-cuts-austin-routes/). Though, these cuts didn't really save the airlines relatively poor performance record at AUS. 
 
 American offered the second-most flights in the past year. This makes American, like Southwest, pretty hard to avoid flying on out of AUS. American ends the past year with a slightly high cancellation rate and average on-time performance. 
 
@@ -152,7 +152,7 @@ Stats:
 - Cancelled: 1.4%
 - *The Points Guy* Ranking: #9
 
-Spirit, like Allegiant and Frontier are ultra-low-cost carriers. Spirit flies more flights than Allegiant but to way fewer destinations. I don't really know what to say other than to avoid flying on Spirit when other options are available. The airline has quite low reliability and doesn't have the backing of an alliance to rebook you as well. We really are in a whole new tier of airlines to avoid.
+Spirit, like Allegiant and Frontier, is another staple ultra-low-cost carrier. Spirit flies more flights than Allegiant, but to way fewer destinations. I don't really know what to say other than to avoid flying on Spirit when other options are available. The airline has quite low reliability and doesn't have the backing of an alliance to rebook you. We really are in a whole new tier of airlines to avoid.
 
 ## 9. Frontier Airlines
 
@@ -167,7 +167,7 @@ Stats:
 - Cancelled: 2.8%
 - *The Points Guy* Ranking: #10
 
-Frontier's small network out of AUS, coupled with terrible performance really should dissuade you from wanting to book your next family trip with them. Don't forget they also fly out of the South Terminal. The fact they allow you to book connecting itineraries is a sick joke.
+Frontier's small network out of AUS, coupled with terrible performance really should dissuade you from wanting to book your next family trip with them. Don't forget, they also fly out of the South Terminal. The fact they allow you to book connecting itineraries is a sick joke.
 
 ## 10. JetBlue Airways
 
@@ -182,7 +182,7 @@ Stats:
 - Cancelled: 1.1%
 - *The Points Guy* Ranking: #6
 
-I was most surprised by JetBlue. It has a decent reputation and a similar cult-like following to Southwest but awful performance to it's two east coast destinations. I thought it was hit hard as well by the east coast delays of last summer but it never really recovered and performance stayed low through the fall and winter. 
+I was most surprised by JetBlue. It has a decent reputation and a similar cult-like following to Southwest but awful performance to it's two east coast destinations. I thought it was hit hard as well by the east coast delays of last summer, but it never really recovered and performance stayed low through the fall and winter. 
 
 
 ## Full Rankings and Interactive
