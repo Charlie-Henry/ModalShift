@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-A snippet of personal (and some work-related) things I've been working on.
+A snippet of personal (and some work-related) things I've been working on. I'm fortunate that most of day job is on open source, you can check out my daily contributions on my [github](https://github.com/Charlie-Henry).
 
 ## Machine Learning
 
@@ -13,6 +13,7 @@ A snippet of personal (and some work-related) things I've been working on.
 I created and maintain [a twitter bot](https://x.com/ForecastAUS) that tweets daily a forecast for how busy the airport will be using a simple ARIMA model trained on historical TSA checkpoint volume data. As part of this work, I set up an ETL that processes hundreds of thousands of pages of PDFs posted to the [TSA website](https://www.tsa.gov/foia/readingroom).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Longer wait times expected tomorrow: Higher than 90% of days. <a href="https://t.co/4z9TT4y9OS">pic.twitter.com/4z9TT4y9OS</a></p>&mdash; Austin Airport Wait Time Forecasting (@ForecastAUS) <a href="https://twitter.com/ForecastAUS/status/1803880885726646274?ref_src=twsrc%5Etfw">June 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ***
 
