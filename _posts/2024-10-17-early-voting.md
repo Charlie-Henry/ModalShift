@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Travis Couny Early Voting Tracking
+title:  Travis County Early Voting Tracking
 excerpt_separator: <!--more-->
 ---
 
