@@ -18,3 +18,6 @@ These charts reflect the voter rosters published on the [Travis County Clerk web
 
 ***
 
+<div style="min-height:434px" id="datawrapper-vis-imymb"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/imymb/embed.js" charset="utf-8" data-target="#datawrapper-vis-imymb"></script><noscript><img src="https://datawrapper.dwcdn.net/imymb/full.png" alt="" /></noscript></div>
+
+***
