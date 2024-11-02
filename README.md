@@ -10,7 +10,7 @@ Check out [my portfolio](http://modalshift.co/portfolio/) for a list of what's s
 
 [LinkedIn](https://www.linkedin.com/in/charlie-henry/)
 
-[Twitter](https://twitter.com/shiftmodal)
+[Bluesky](https://bsky.app/profile/shiftmodal.bsky.social)
 
 
 ## Acknowledgments: 

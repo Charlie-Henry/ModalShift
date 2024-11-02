@@ -14,7 +14,7 @@ Charlie Henry
 
 [charlie@modalshift.co](mailto:charlie@modalshift.co)
 
-[Twitter](https://twitter.com/ShiftModal)
+[Bluesky](https://bsky.app/profile/shiftmodal.bsky.social)
 
 [LinkedIn](https://www.linkedin.com/in/charlie-henry/)
 
