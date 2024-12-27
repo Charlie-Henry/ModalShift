@@ -18,6 +18,8 @@ I was in a data analyst-type role at the time at a transportation engineering co
 
 Last year, UT expanded the program again adding a Master's in AI (MSAIO).
 
+***
+
 ## Pros/Cons
 
 ### Pros:
@@ -36,23 +38,29 @@ The **lack of interaction** with professors and fellow students. This was someth
 
 There are **few opportunities in research or applications**. Related to above, since you rarely work with your professors or fellow students most will not be able to find research opportunities to work on. Very few courses offer any open-ended projects for you to work on, so if you want to apply any of the methods you learn in class you will have to do that on your own time.
 
-**No thesis track.** I learned recently that the MSCSO and the new MSAIO programs both offer a thesis option for their students. I'm not sure if I would have done it if it was offered, but it sounds like an excellent way to boost your resume especially if you are trying to do a career pivot. The fact that MSDSO doesn't offer one is really disappointing and I hope that changes soon. Related to this issue is MSAIO and MSCSO students have the option of taking many of the best MSDSO courses but the opposite is not offered for MSDSO students.
+**No thesis track.** I learned recently that the MSCSO and the new MSAIO programs both offer a thesis option for their students. I'm not sure if I would have done it if it were offered, but it sounds like an excellent way to boost your resume especially if you are trying to do a career pivot. The fact that MSDSO doesn't offer one is really disappointing and I hope that changes soon. Related to this issue is MSAIO and MSCSO students have the option of taking many of the best MSDSO courses but the opposite is not offered for MSDSO students.
 
-**Not all of the courses are offered every semester**, Speedrunners beware. Some future students probably see the 10 course program of work and scoff and assume they can complete it out easily in three (or less!) semesters. This may not be possible as not every course is offered every semester and only a small portion are offered in the summer. It's also not announced what courses will be offered until a couple of months before the start of the semester. This might make things difficult for people trying to complete the program as fast as possible.
+**Not all of the courses are offered every semester**, speedrunners beware. Some future students probably see the 10 course program of work and scoff at it and assume they can complete it easily in three (or less!) semesters. This may not be possible as not every course is offered every semester and only a small portion are offered in the summer. It's also not announced what courses will be offered until a couple of months before the start of the semester. This might make things difficult for people trying to complete the program as fast as possible.
+
+***
 
 ## A word on admissions
 
 UT admissions is [infamously a black box](https://en.wikipedia.org/wiki/Fisher_v._University_of_Texas_(2013)). So anything said about what admissions is looking for is complete speculation. I would highly recommend you check the requirements and preferred qualifications and make sure you meet **everything**. If you do not meet one of the requirements I would go in with the assumption that I was not going to be offered admission and have a backup plan. You can also reapply every spring and fall. 
 
-They have stated there are no admission caps, so if you do meet the requirements/qualifications you will probably get in. So there really is no such thing as being a "competitive" candidate. You will also never hear back from UT why you were or were not granted admission.
+The MSDSO staff have stated that there are no admission caps, so if you do meet the requirements/qualifications you will probably get in. Therefore, there really is no such thing as being a "competitive" candidate. You will also never hear back from UT why you were or were not granted admission.
 
 Also it's not clear the value of optional things such as letters of recommendation or GRE scores. 
+
+***
 
 ## Courses
 
 They currently offer 14 courses and I only took 10, so here's my high level review of the courses I did take, in the order I took them.
 
 Or if you prefer in tier-list format:
+
+{: .center}
 ![course tier list]({{site.baseurl}}/images/msdso_tier_list.png)
 
 ### Probability and Simulation Based Inference for Data Science
@@ -93,7 +101,7 @@ Spring 2023
 - Rating: A
 - My grade: B+
 
-This course as since been reworked and split into two classes (they added an Advances in Deep Learning Course and nixed the final project in this course). But this was probably the most difficult course for me in the program. It was mostly programming assignments were you had to set up a deep learning algorithm to solve some problem. You had to get a certain performance to get a decent grade on the assignment, so naturally this involved a ton of hyperparameter tuning. I used my own GPU to speed things up but you could also use Google Collab. The final project was a ton of work as well. The lectures are really good and you definitely learn pytorch by the end of it. 
+This course as since been reworked and split into two classes (they added an Advances in Deep Learning Course and nixed the final project in this course). This was probably the most difficult course for me in the program. It was mostly programming assignments were you had to set up a deep learning algorithm to solve some problem. You had to get a certain performance to get a decent grade on the assignment, so naturally this involved a ton of hyperparameter tuning. I used my own GPU to speed things up but you could also use Google Collab. The final project was a ton of work as well. The lectures are really good and you definitely learn pytorch by the end of it. 
 
 ### Data Exploration & Visualization
 
@@ -101,7 +109,7 @@ Spring 2023
 - Rating: B
 - My grade: A
 
-This is a really popular class with MSDSO students partly because it is super easy, but also has a ton of useful content in making your data visualizations understandable and clean. The whole class is programming assignments in R. The lectures are great but I just wish that more visualization options were allowed like matplotlib in Python. Also, the lack of a final project in this class is really disappointing.
+This is a really popular class with MSDSO students partly because it is super easy, but it also has a ton of useful content in making your data visualizations understandable and clean. The whole class is programming assignments in R. The lectures are great but I just wish that more visualization options were allowed like matplotlib in Python. Also, the lack of a final project in this class is really disappointing.
 
 ### Natural Language Processing
 
@@ -135,12 +143,18 @@ Fall 2024
 
 This was a pretty disappointing class. The lectures are very brief and are basically a summary of that section in the chapter of the textbook. The whole class is based around you reading the textbook. This might work well in-person but I don't think this type of course works well online. It's a homework and test class. I would recommend the David Silver lectures on [youtube](https://youtu.be/2pWv7GOvuf0) as an extra learning resource. 
 
+***
+
 ## Conclusion
 
 Generally, I'm glad I've completed the MSDSO program. It took me three years, but in that time I started a new job as a contract data scientist and now help lead a small team. The classes I took really haven't provided exact "skills" that I need to do my job but really set me up with the background theoretical knowledge to know *when* to do something and *when* it's probably not worth.
+
+***
 
 ## Resources
 
 - [MSDShub](https://msdshub.com/) for many more course reviews
 - [MSDSO subreddit](https://www.reddit.com/r/MSDSO/) for the admissions thread to see the type of students who get admitted
 - MSDSO Discord (check the subreddit sidebar for an updated link)
+
+🤘
