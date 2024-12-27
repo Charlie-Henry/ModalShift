@@ -4,9 +4,35 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# Data Analysis & Visualization
+A snippet of personal (and some work-related) things I've been working on. I'm fortunate that most of day job is open source, you can check out my daily contributions on my [github](https://github.com/Charlie-Henry).
 
-## Change in commute patterns in Texas
+## Machine Learning
+
+### Austin Airport TSA Wait Time Forecasting
+
+I created and maintain [a twitter bot](https://x.com/ForecastAUS) that tweets daily a forecast for how busy the airport will be using a simple ARIMA model trained on historical TSA checkpoint volume data. As part of this work, I set up an ETL that processes hundreds of thousands of pages of PDFs posted to the [TSA website](https://www.tsa.gov/foia/readingroom).
+
+Example prediction:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Longer wait times expected tomorrow: Higher than 90% of days. <a href="https://t.co/4z9TT4y9OS">pic.twitter.com/4z9TT4y9OS</a></p>&mdash; Austin Airport Wait Time Forecasting (@ForecastAUS) <a href="https://twitter.com/ForecastAUS/status/1803880885726646274?ref_src=twsrc%5Etfw">June 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+***
+
+## Data Analysis & Visualization
+
+### Austin MetroBike Trips Visualization
+
+Using a tool called [flowmap.blue](https://flowmap.blue) I was able to quickly visualize multiple years of docked bicycle data. It is featured on [flowmap.blue's examples page.](https://flowmap.blue/#examples) 
+
+Created with: Python, Google sheets
+
+<iframe width="100%" height="600" src="https://www.flowmap.blue/1qIMB8jTEGMO6u1sLcuu5vQvP90jbENt904zMCV0A3DI/82227dc/embed" frameborder="0" allowfullscreen></iframe>
+
+[Link to the interactive](https://www.flowmap.blue/1qIMB8jTEGMO6u1sLcuu5vQvP90jbENt904zMCV0A3DI/82227dc)
+
+
+### Change in commute patterns in Texas
 
 I wanted to track how the state of Texas has been doing on returning to "normal" following the COVID-19 pandemic. [Google's Mobility data](https://www.google.com/covid19/mobility/) tracks the % change (relative to February 2020) to how often their users are going to residential areas, parks, grocery stores, and others. I was particularly interested in the "workplaces" category which should be a good indicator of how many workers are returning to office. 
 
@@ -18,66 +44,16 @@ Created with: Python + Geopandas
 
 ![config.yml]({{site.baseurl}}/visualizations/Texas-Mobility-Maps/TX%20Google%20Workplaces.gif) 
 
-***
+### COVID-19 Mobility Impacts Dashboard
 
-## COVID-19 Mobility Impacts Dashboard
-
-Starting in April 2020, [I created a blogpost](https://modalshift.co/COVID19/) tracking the changes to Austin's mobility caused by COVID-19. Using data sourced from the City's open data portal, I created some live-updating charts showing vehicle volume, micromobility trips, and traffic incidents. About every month I create a full report showing trends in the data along with a few takeways of mine. Check out my archive of my thoughts & takeaways, too.
+From April 2020 to August 2021, [I kept a running blogpost](https://modalshift.co/COVID19/) tracking the changes to Austin's mobility caused by COVID-19. Using data sourced from the City's open data portal, I created some live-updating charts showing vehicle volume, micromobility trips, and traffic incidents. Every month I posted a full report showing trends in the data along with a few takeaways of mine. 
 
 Created with: Google apps script, plotly studio
 
-![config.yml]({{site.baseurl}}/images/Combined.png)
 
 ***
 
-## Austin MetroBike Trips Visualization
-
-Using a tool called [flowmap.blue](https://flowmap.blue) I was able to quickly visualize multiple years of docked bicycle data. It is featured on [flowmap.blue's examples page.](https://flowmap.blue/#examples) 
-
-[Link to the interactive](https://flowmap.blue/1SCmQHSfvgYhPz5VFzg5LBtqY3OSfHzTutKkpneWVL4Q)
-
-Created with: Python, Google sheets
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Video of <a href="https://twitter.com/ATXMetroBike?ref_src=twsrc%5Etfw">@ATXMetroBike</a> trips from 2015 to 2020. <a href="https://t.co/dcUSltaPG3">https://t.co/dcUSltaPG3</a> <a href="https://t.co/UpxtwVJ4jV">pic.twitter.com/UpxtwVJ4jV</a></p>&mdash; Charlie Henry (@ShiftModal) <a href="https://twitter.com/ShiftModal/status/1397224474018189324?ref_src=twsrc%5Etfw">May 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-***
-
-# Interactive Mapping 
-
-## Bluetooth Sensor Travel Times Performance and Visualization
-
-The city of Austin publishes travel time data using bluetooth sensors. These are largely no longer maintained but some sensors are still operational. I was interested in how COVID-19 impacted travel times and congestion. Using methodology from the Federal Highway Administration, I calculated some performance measures for each segment.
-
-Created with: Python, Mapbox GL JS
-
-[Project repo](https://github.com/Charlie-Henry/ModalShift/tree/master/visualizations/Bluetooth-Mapping)
-
-<iframe src='/maps/bluetooth_map.html'
-        width='100%' height='400px'>
-</iframe>
-
-[Full Screen](http://modalshift.co/maps/bluetooth_map.html)
-
-***
-
-## TxDOT Lufkin District ITS Projects Map
-
-An interactive map with a Google Sheet backend that enables TxDOT to track their progress in implementing their district's ITS plan. 
-
-Created with: Google Sheets, Mapbox GL JS
-
-[Project repo](https://github.com/Charlie-Henry/Lufkin-ITS-Projects)
-
-<iframe src='https://charlie-henry.github.io/Lufkin-ITS-Projects/'
-        width='100%' height='400px'>
-</iframe>
-
-[Full Screen](https://charlie-henry.github.io/Lufkin-ITS-Projects/)
-
-***
-
-# Engagements
+## Speaking Engagements & Presentations
 
 American Society Of Highway Engineers Central Texas Region July 2021 Meeting: *Planes, Strains, and Automobiles* - [Presentation Slides](https://drive.google.com/drive/folders/1qFWhqVciXfjjkXHq3ODAg_7GMpaXyK3g?usp=sharing)
 
