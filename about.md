@@ -6,17 +6,28 @@ permalink: /about/
 
 I'm Charlie Henry and this is my blog. I currently work as a data scientist in Austin, Texas.
 
-[SXSW 2022 slides](https://drive.google.com/drive/folders/12P2R3FYeLfbJ-lFBuitk7A5OuxLJM5xx?usp=sharing)
+My general interests include:
+- Machine learning
+- Data visualization
+- Transportation and housing
+- Aviation
+- Elections
+- Running
+- Camping
+- College football
+- Hockey
+- Craft beer
 
 ### Chat with me
 
 Charlie Henry
 
-[charlie@modalshift.co](mailto:charlie@modalshift.co)
+charlie !at! modalshift.co 
 
 [Bluesky](https://bsky.app/profile/modalshift.co)
 
 [LinkedIn](https://www.linkedin.com/in/charlie-henry/)
 
-![config.yml]({{site.baseurl}}/images/About pic.png)
-
+{: .center}
+![Data flow diagram of the forecast bot]({{site.baseurl}}/images/about_pic.png)
+*That's my cat, Ramsey.*
