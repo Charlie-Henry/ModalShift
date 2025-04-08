@@ -19,7 +19,7 @@ I created and maintain [a bluesky bot](https://bsky.app/profile/forecastaus.bsky
 *Data flow diagram of the forecast bot*
 
 {: .center}
-![Example post: Relatively normal wait times expected tomorrow: Higher than 26% of days.]({{site.baseurl}}/images/forecast.png)
+[![Example post: Relatively normal wait times expected tomorrow: Higher than 26% of days.]({{site.baseurl}}/images/forecast.png)](https://bsky.app/profile/forecastaus.bsky.social/post/3lmdbdmrjrd2t)
 *Example prediction*
 
 ***
@@ -37,7 +37,7 @@ If there is a change in road conditions, a new post is created.
 The code is [open source](https://github.com/Charlie-Henry/atx-road-conditions-bot) and in theory could be deployed for other cities if the data were made available.
 
 {: .center}
-![Example post: POOR roadway grip reported at FM 2222 RD / LAKEWOOD DR, was previously FAIR. Current roadway condition is Snow.]({{site.baseurl}}/images/road_conditions.png)
+[![Example post: POOR roadway grip reported at FM 2222 RD / LAKEWOOD DR, was previously FAIR. Current roadway condition is Snow.]({{site.baseurl}}/images/road_conditions.png)](https://bsky.app/profile/atx-road-condition.bsky.social/post/3lga6p6ani72b)
 *Example post*
 
 ### Voter Turnout Scraping
@@ -47,7 +47,7 @@ For 2024's early voting period I set up an [ETL script](https://github.com/Charl
 The archived post along with more visualizations is available [here]({{site.baseurl}}/early-voting/).
 
 {: .center}
-![2024 live voter turnout comparison](https://raw.githubusercontent.com/Charlie-Henry/atx-elections-data/refs/heads/main/etl/travis_county_roster_scrape/2024-voter-turnout-timeline.png)
+[![2024 live voter turnout comparison](https://raw.githubusercontent.com/Charlie-Henry/atx-elections-data/refs/heads/main/etl/travis_county_roster_scrape/2024-voter-turnout-timeline.png)]({{site.baseurl}}/early-voting/)
 *2024 live voter turnout comparison*
 
 ***
@@ -59,7 +59,7 @@ The archived post along with more visualizations is available [here]({{site.base
 One topic I frequently visualize is elections. My [atx-elections-data](https://github.com/Charlie-Henry/atx-elections-data) repo contains several examples of code I have written to visualize elections mostly in Texas.
 
 {: .center}
-![Precinct-level election shifts](https://raw.githubusercontent.com/Charlie-Henry/atx-elections-data/refs/heads/main/visualization/20_to_24_shifts/2020_vs_2024_tx.png)
+[![Precinct-level election shifts](https://raw.githubusercontent.com/Charlie-Henry/atx-elections-data/refs/heads/main/visualization/20_to_24_shifts/2020_vs_2024_tx.png)](https://github.com/Charlie-Henry/atx-elections-data?tab=readme-ov-file#20_to_24-shifts)
 *Precinct-level election shifts*
 
 ### Austin MetroBike Trips Visualization
@@ -68,9 +68,8 @@ Using a tool called [flowmap.blue](https://flowmap.blue) I was able to quickly v
 
 Created with: Python, Google sheets
 
-
-<iframe width="100%" height="600" src="https://www.flowmap.blue/1qIMB8jTEGMO6u1sLcuu5vQvP90jbENt904zMCV0A3DI/82227dc/embed" frameborder="0" allowfullscreen></iframe>
-
+{: .center}
+[![A map displaying the trip density of bicycle trips between kiosks in Austin, Texas.]({{site.baseurl}}/images/flowmap.png)](https://www.flowmap.blue/1qIMB8jTEGMO6u1sLcuu5vQvP90jbENt904zMCV0A3DI/82227dc)
 [Link to the interactive](https://www.flowmap.blue/1qIMB8jTEGMO6u1sLcuu5vQvP90jbENt904zMCV0A3DI/82227dc)
 
 ***
