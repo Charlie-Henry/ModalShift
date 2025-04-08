@@ -18,8 +18,8 @@ I created and maintain [a bluesky bot](https://bsky.app/profile/forecastaus.bsky
 ![Data flow diagram of the forecast bot]({{site.baseurl}}/images/flow_diagram_forecast_aus.png)
 *Data flow diagram of the forecast bot*
 
-![Example post: Relatively normal wait times expected tomorrow: Higher than 26% of days.]({{site.baseurl}}/images/forecast.png)
 {: .center}
+![Example post: Relatively normal wait times expected tomorrow: Higher than 26% of days.]({{site.baseurl}}/images/forecast.png)
 *Example prediction*
 
 ***
@@ -36,6 +36,7 @@ If there is a change in road conditions, a new post is created.
 
 The code is [open source](https://github.com/Charlie-Henry/atx-road-conditions-bot) and in theory could be deployed for other cities if the data were made available.
 
+{: .center}
 ![Example post: POOR roadway grip reported at FM 2222 RD / LAKEWOOD DR, was previously FAIR. Current roadway condition is Snow.]({{site.baseurl}}/images/road_conditions.png)
 *Example post*
 
@@ -66,6 +67,7 @@ One topic I frequently visualize is elections. My [atx-elections-data](https://g
 Using a tool called [flowmap.blue](https://flowmap.blue) I was able to quickly visualize multiple years of docked bicycle data. It is featured on [flowmap.blue's examples page.](https://flowmap.blue/#examples) 
 
 Created with: Python, Google sheets
+
 
 <iframe width="100%" height="600" src="https://www.flowmap.blue/1qIMB8jTEGMO6u1sLcuu5vQvP90jbENt904zMCV0A3DI/82227dc/embed" frameborder="0" allowfullscreen></iframe>
 
