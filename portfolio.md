@@ -4,7 +4,9 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-A snippet of personal (and some work-related) things I've been working on. I'm fortunate that most of day job is open source, you can check out my daily contributions on my [github](https://github.com/Charlie-Henry).
+A snippet of personal (and some work-related) things I've been working on. 
+
+I'm fortunate that most of my day job is open source, you can check out my daily contributions on my [github](https://github.com/Charlie-Henry).
 
 ***
 
