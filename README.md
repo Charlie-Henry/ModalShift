@@ -2,7 +2,7 @@
 
 [http://modalshift.co/](http://modalshift.co/)
 
-Charlie Henry's transportation data blog and small project repository.
+Charlie Henry's blog and small project repository.
 
 Check out [my portfolio](http://modalshift.co/portfolio/) for a list of what's stored here + more!
 
@@ -16,7 +16,3 @@ Check out [my portfolio](http://modalshift.co/portfolio/) for a list of what's s
 ## Acknowledgments: 
 
 [Blog built with Jekyll Now.](https://github.com/barryclark/jekyll-now)
-
-[Google mobility data collected from ActiveConculsion.](https://github.com/ActiveConclusion/COVID19_mobility)
-
-[TSA Passenger throughput by airport painstakingly crunched by Mikelor.](https://github.com/mikelor/TsaThroughput)
