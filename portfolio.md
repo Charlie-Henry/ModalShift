@@ -18,9 +18,36 @@ I created and maintain [a bluesky bot](https://bsky.app/profile/forecastaus.bsky
 ![Data flow diagram of the forecast bot]({{site.baseurl}}/images/flow_diagram_forecast_aus.png)
 *Data flow diagram of the forecast bot*
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:igdjkgwavulssahqpkrgz5xl/app.bsky.feed.post/3lgc2pkbdg22k" data-bluesky-cid="bafyreihwtbilk46hmm22ytalbg55poobveokmbydtiqou4j5z563aj4iki"><p lang="en">Below normal wait times expected tomorrow: Higher than 0% of days.<br><br><a href="https://bsky.app/profile/did:plc:igdjkgwavulssahqpkrgz5xl/post/3lgc2pkbdg22k?ref_src=embed">[image or embed]</a></p>&mdash; 🤖 Austin Airport Daily Wait Time Forecasting  (<a href="https://bsky.app/profile/did:plc:igdjkgwavulssahqpkrgz5xl?ref_src=embed">@forecastaus.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:igdjkgwavulssahqpkrgz5xl/post/3lgc2pkbdg22k?ref_src=embed">January 21, 2025 at 5:59 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+![Example post: Relatively normal wait times expected tomorrow: Higher than 26% of days.]({{site.baseurl}}/images/forecast.png)
 {: .center}
 *Example prediction*
+
+***
+
+## Data Engineering
+
+### Austin Road Conditions
+
+I created a [bluesky bot](https://bsky.app/profile/atx-road-condition.bsky.social) that posts road condition updates using real-time automated sensor data. 
+
+Every 5 minutes, the script checks for changes to the road grip at available sensor locations around Austin from this [open data portal dataset](https://data.austintexas.gov/Transportation-and-Mobility/Real-Time-Road-Conditions/ypbq-i42h/about_data). 
+
+If there is a change in road conditions, a new post is created.
+
+The code is [open source](https://github.com/Charlie-Henry/atx-road-conditions-bot) and in theory could be deployed for other cities if the data were made available.
+
+![Example post: POOR roadway grip reported at FM 2222 RD / LAKEWOOD DR, was previously FAIR. Current roadway condition is Snow.]({{site.baseurl}}/images/road_conditions.png)
+*Example post*
+
+### Voter Turnout Scraping
+
+For 2024's early voting period I set up an [ETL script](https://github.com/Charlie-Henry/atx-elections-data/tree/main/etl/travis_county_roster_scrape) that scraped live voter turnout data and plotted it alongside a comparison to the the 2020 election. 
+
+The archived post along with more visualizations is available [here]({{site.baseurl}}/early-voting/).
+
+{: .center}
+![2024 live voter turnout comparison](https://raw.githubusercontent.com/Charlie-Henry/atx-elections-data/refs/heads/main/etl/travis_county_roster_scrape/2024-voter-turnout-timeline.png)
+*2024 live voter turnout comparison*
 
 ***
 
@@ -33,12 +60,6 @@ One topic I frequently visualize is elections. My [atx-elections-data](https://g
 {: .center}
 ![Precinct-level election shifts](https://raw.githubusercontent.com/Charlie-Henry/atx-elections-data/refs/heads/main/visualization/20_to_24_shifts/2020_vs_2024_tx.png)
 *Precinct-level election shifts*
-
-For 2024's early voting period I set up an [ETL script](https://github.com/Charlie-Henry/atx-elections-data/tree/main/etl/travis_county_roster_scrape) that scraped live voter turnout data and plotted it alongside a comparison to the the 2020 election. 
-
-{: .center}
-![2024 live voter turnout comparison](https://raw.githubusercontent.com/Charlie-Henry/atx-elections-data/refs/heads/main/etl/travis_county_roster_scrape/2024-voter-turnout-timeline.png)
-*2024 live voter turnout comparison*
 
 ### Austin MetroBike Trips Visualization
 
@@ -91,8 +112,8 @@ Certifications:
 
 Master's Coursework:
 - DSC 385T: Data Science for Health Discovery and Innovation
-- DSC 391L: Principles of Machine Learning
-- DSC 394R: Reinforcement Learning
+- [DSC 391L: Principles of Machine Learning](https://badgr.com/public/assertions/AaZGhwiEQb2M7Avle1g7NA)
+- [DSC 394R: Reinforcement Learning](https://badgr.com/public/assertions/RsAzGD1BRwCPGyp5uxGAog)
 - [CS 388: Natural Language Processing](https://courses.edx.org/certificates/f0460d4329844ae8bad4630c167969a7)
 - [CS 394D: Deep Learning](https://courses.edx.org/certificates/9e77858ad5fe4406b561f31d68bd01e9)
 - [CS 395T: Data Structures and Algorithms](https://courses.edx.org/certificates/9054a3d73f9d4002a9c07333808db655)
