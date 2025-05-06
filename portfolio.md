@@ -39,7 +39,7 @@ If there is a change in road conditions, a new post is created, and a screenshot
 The code is [open source](https://github.com/Charlie-Henry/atx-road-conditions-bot) and in theory could be deployed for other cities if the data were made available.
 
 {: .center}
-[![Example post: POOR roadway grip reported at FM 2222 RD / LAKEWOOD DR, was previously FAIR. Current roadway condition is Snow.]({{site.baseurl}}/images/road_conditions.png)](https://bsky.app/profile/atx-road-condition.bsky.social/post/3lga6p6ani72b)
+[![Example post: GOOD roadway grip reported at LAKELINE BLVD / 183 HWY SVRD, was previously FAIR. Current roadway condition is Damp.]({{site.baseurl}}/images/road_conditions.png)](https://bsky.app/profile/atx-road-condition.bsky.social/post/3lojiyvwarr2r)
 *Example post*
 
 ### Voter Turnout Scraping
