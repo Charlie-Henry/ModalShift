@@ -34,7 +34,7 @@ I created a [bluesky bot](https://bsky.app/profile/atx-road-condition.bsky.socia
 
 Every 5 minutes, the script checks for changes to the road grip at available sensor locations around Austin from this [open data portal dataset](https://data.austintexas.gov/Transportation-and-Mobility/Real-Time-Road-Conditions/ypbq-i42h/about_data). 
 
-If there is a change in road conditions, a new post is created.
+If there is a change in road conditions, a new post is created, and a screenshot of the nearest traffic camera is attached.
 
 The code is [open source](https://github.com/Charlie-Henry/atx-road-conditions-bot) and in theory could be deployed for other cities if the data were made available.
 
