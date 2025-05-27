@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I'm Charlie Henry and this is my blog. I currently work as a data scientist in Austin, Texas.
+I'm Charlie Henry and this is my blog. I currently work as a data scientist in Las Vegas.
 
 My general interests include:
 - Machine learning
