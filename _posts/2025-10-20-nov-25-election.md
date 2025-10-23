@@ -14,6 +14,10 @@ These charts reflect the voter rosters published on the [Travis County Clerk web
 
 ***
 
+<div style="min-height:431px" id="datawrapper-vis-BL2Be"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/BL2Be/embed.js" charset="utf-8" data-target="#datawrapper-vis-BL2Be"></script><noscript><img src="https://datawrapper.dwcdn.net/BL2Be/full.png" alt="2025 Turnout Timeline Versus 2021 (Line chart)" /></noscript></div>
+
+***
+
 <div style="min-height:443px" id="datawrapper-vis-c7xQR"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/c7xQR/embed.js" charset="utf-8" data-target="#datawrapper-vis-c7xQR"></script><noscript><img src="https://datawrapper.dwcdn.net/c7xQR/full.png" alt="2025 Election Turnout Timeline (Area Chart)" /></noscript></div>
 
 ***
