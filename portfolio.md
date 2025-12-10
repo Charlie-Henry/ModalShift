@@ -12,9 +12,13 @@ I'm fortunate that most of my day job is open source, you can check out my daily
 
 ## Machine Learning
 
-### Austin Airport TSA Wait Time Forecasting
+### [AeroVolumes](https://www.aerovolumes.com/)
 
-I created and maintain [a bluesky bot](https://bsky.app/profile/forecastaus.bsky.social) that posts a daily forecast for how busy the airport will be using a simple ARIMA model trained on historical TSA checkpoint volume data. As part of this work, I set up an ETL that processes hundreds of thousands of pages of PDFs posted to the [TSA website](https://www.tsa.gov/foia/readingroom).
+I built an automated forecasting system that predicts how busy major U.S. airports will be, posting a daily forecast to Bluesky. The ML pipeline uses a simple ARIMA model trained on historical TSA checkpoint throughput.
+
+To support the forecasting system, I engineered a full ETL pipeline that parses and cleans hundreds of thousands of pages of TSA PDF reports, extracting historical checkpoint counts into a structured database.
+
+As part of this project, I also deployed a public API on [RapidAPI](https://rapidapi.com/CharlieHenry/api/aerovolumes) that allows anyone to query and download data
 
 {: .center}
 ![Data flow diagram of the forecast bot]({{site.baseurl}}/images/flow_diagram_forecast_aus.png)
@@ -26,17 +30,25 @@ I created and maintain [a bluesky bot](https://bsky.app/profile/forecastaus.bsky
 
 ***
 
+### [CFL Negotiation list tracker](https://cfl-neg-list-website.onrender.com/)
+
+I built an automated data pipeline that scrapes Canadian Football League (CFL) negotiation list updates from a website, parses roster information, and publishes structured player datasets to a [public site](https://cfl-neg-list-website.onrender.com/).
+
+To enrich each player profile, I developed an ML pipeline, which analyzes historical player data, college backgrounds, and pro experience to generate high level scouting summaries. These insights are served through my site and updated automatically as new players appear on negotiation lists.
+
+{: .center}
+![Data flow diagram of the forecast bot]({{site.baseurl}}/images/cfl_neg_list.png)
+*Playing history table created with an ML pipeline*
+
+***
+
 ## Data Engineering
 
 ### Austin Road Conditions
 
-I created a [bluesky bot](https://bsky.app/profile/atx-road-condition.bsky.social) that posts road condition updates using real-time automated sensor data. 
+I built a [Bluesky bot](https://bsky.app/profile/atx-road-condition.bsky.social) that posts live road condition updates for Austin using real-time roadway friction sensor data. Every 5 minutes, the ETL checks the City of Austin’s public sensor feed for changes in road conditions. When a change is detected, the bot generates a new post and attaches a screenshot from the nearest traffic camera.
 
-Every 5 minutes, the script checks for changes to the road grip at available sensor locations around Austin from this [open data portal dataset](https://data.austintexas.gov/Transportation-and-Mobility/Real-Time-Road-Conditions/ypbq-i42h/about_data). 
-
-If there is a change in road conditions, a new post is created, and a screenshot of the nearest traffic camera is attached.
-
-The code is [open source](https://github.com/Charlie-Henry/atx-road-conditions-bot) and in theory could be deployed for other cities if the data were made available.
+The entire pipeline is [open source](https://github.com/Charlie-Henry/atx-road-conditions-bot) and designed to be deployable in other cities with similar open sensor data.
 
 {: .center}
 [![Example post: GPOOR roadway grip reported at LAKELINE BLVD / 183 HWY SVRD, was previously FAIR. Current roadway condition is Standing water.]({{site.baseurl}}/images/road_conditions.png)](https://bsky.app/profile/atx-road-condition.bsky.social/post/3lq4lzwglsr2y)
@@ -46,7 +58,7 @@ The code is [open source](https://github.com/Charlie-Henry/atx-road-conditions-b
 
 For 2024's early voting period I set up an [ETL script](https://github.com/Charlie-Henry/atx-elections-data/tree/main/etl/travis_county_roster_scrape) that scraped live voter turnout data and plotted it alongside a comparison to the the 2020 election. 
 
-The archived post along with more visualizations is available [here]({{site.baseurl}}/early-voting/).
+The archived post along with more visualizations is available [here]({{site.baseurl}}/early-voting/). I also created a similar post for the [2025 election]({{site.baseurl}}/nov-25-election/).
 
 {: .center}
 [![2024 live voter turnout comparison](https://raw.githubusercontent.com/Charlie-Henry/atx-elections-data/refs/heads/main/etl/travis_county_roster_scrape/2024-voter-turnout-timeline.png)]({{site.baseurl}}/early-voting/)
@@ -78,37 +90,41 @@ Created with: Python, Google sheets
 
 ## Skills Summary
 
-Programming: 
-- Python (expert)
-- R (intermediate)
-- Javascript (intermediate)
+**Programming**
+- Python (expert): data engineering, ML modeling, automation, API development
+- R 
+- Java
+- Javascript
 
-Data Engineering:
-- Extract transform load (ETL) scripting with Python and dbt
-- Building and deploying Docker containers
-- SQL (Postgres, Oracle) for database administration and data extraction/transformation
-- Cloud orchestration with Prefect, on-premises orchestration with Apache Airflow
-- Amazon Web Services (AWS): S3, EC2 
-- Google Cloud Service (GCS): BigQuery, Cloud Functions, Cloud Storage
+**Data Engineering & Infrastructure**
+- End-to-end ETL development with Python, dbt, and SQL
+- Docker containerization and deployment
+- SQL (Postgres, Oracle): schema design, optimization, data transformation
+- Workflow orchestration: Prefect (cloud), Apache Airflow (on-prem)
 
-Data Science/Machine Learning
-- Machine learning: Pytorch, XGBoost, Scikit learn
-- Experience applying deep learning, PCA, and supervised learning to real world problems
+**Cloud platforms:**
+- AWS: S3, EC2
+- GCP: BigQuery, Cloud Functions, Cloud Storage
+- Automated pipelines for PDF extraction, web scraping, and real-time sensor ingestion
 
-Business Intelligence
-- Power BI (expert)
-- Hex (expert)
+**Data Science & Machine Learning:**
+- Machine learning with PyTorch, XGBoost, Scikit-learn
+- Experience with supervised learning, deep learning, PCA, ARIMA time-series forecasting, and generative AI (Gemini, OpenAI)
+- Model deployment and monitoring for production data products
+
+**Business Intelligence & Visualization:**
+- Power BI (expert): dashboards, DAX, modeling
+- Hex (expert)L: notebooks, SQL + Python workflows
 - Tableau (intermediate)
 - MicroStrategy (intermediate)
-- Geospatial analysis and mapping with ArcGIS Online, geopandas, postGIS
 
 ***
 
 ## Education & Certifications
 
 Education:
-- Master's of Science in Data Science, *The University of Texas at Austin*. Dec 2024
-- Bachelor's of Science in Aerospace Engineering, *The University of Texas at Austin*. Dec 2018
+- Master's of Science in Data Science, *University of Texas at Austin*.
+- Bachelor's of Science in Aerospace Engineering, *University of Texas at Austin*.
 
 Certifications: 
 - [Prefect Associate](https://www.credential.net/746691ba-73ab-4a31-8f1c-00b99c367f4e#acc.E4o6KFhL)

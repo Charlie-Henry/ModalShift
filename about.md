@@ -4,30 +4,16 @@ title: About Me
 permalink: /about/
 ---
 
-I'm Charlie Henry and this is my blog. I currently work as a data scientist in Las Vegas.
+Hi, I’m Charlie Henry. This is my blog.
 
-My general interests include:
-- Machine learning
-- Data visualization
-- Transportation and housing
-- Aviation
-- Elections
-- Running
-- Camping
-- College football
-- Hockey
-- Craft beer
+This blog has been a place for me to share my thoughts and data visualizations on transportation, elections, and other things.
+
+Outside of work, you’ll usually find me exploring new trails, watching college football or hockey, or sampling great craft beer. 
 
 ### Chat with me
 
 Charlie Henry
 
-charlie !at! modalshift.co 
-
-[Bluesky](https://bsky.app/profile/modalshift.co)
+My [Bluesky](https://bsky.app/profile/modalshift.co) DMs are always open.
 
 [LinkedIn](https://www.linkedin.com/in/charlie-henry/)
-
-{: .center}
-![Data flow diagram of the forecast bot]({{site.baseurl}}/images/about_pic.png)
-*That's my cat, Ramsey.*
