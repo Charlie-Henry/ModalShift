@@ -6,11 +6,11 @@ excerpt_separator: <!--more-->
 
 An apparent terrorist attack in Austin could have revealed that it might be safer for bars to stay open past 2AM.
 
+<!--more-->
+
 {: .center}
 ![Photo of me on east 7th street by a mural of Willie Nelson]({{site.baseurl}}/images/sixth.jpeg)
 *Me attempting my Willie Nelson impression after a football game on 7th Street*
-
-<!--more-->
 
 Last [Sunday morning at 1:58AM several 9-1-1 calls](https://www.statesman.com/news/article/austin-6th-street-shooting-timeline-reconstruction-21950935.php) came in to Austin Police dispatch about a shooting in progress along West Sixth Street. [Four people died and as many as 13 victims were injured](https://www.kut.org/crime-justice/2026-03-02/austin-tx-shooting-bufords-bar-6th-street-suspect-ndiaga-diagne-texas) in a mass shooting. 
 
