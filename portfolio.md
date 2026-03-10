@@ -70,7 +70,7 @@ The archived post along with more visualizations is available [here]({{site.base
 
 ### [2026 Texas Primaries Election Night Interactive](https://texas-election-board.onrender.com/)
 
-I created an interactive county-level election map for the 2026 Democratic and Republican primaries in Texas. Heavily inspired by the "big boards" used on TV by Steve Kornacki and John King. I also set up a script that populated the map with real-time results from the Texas Secretary of State website.
+I created an interactive county-level election map for the 2026 Democratic and Republican primaries in Texas. Heavily inspired by the "big boards" used on TV by Steve Kornacki and John King. I also set up a script that populated the map with real-time results from the Texas Secretary of State website. The repo is open source and available [here](https://github.com/Charlie-Henry/texas-election-board).
 
 {: .center}
 [![Precinct-level election shifts]({{site.baseurl}}/images/election-big-board.png)](https://texas-election-board.onrender.com/)
