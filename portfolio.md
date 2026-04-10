@@ -68,12 +68,12 @@ The archived post along with more visualizations is available [here]({{site.base
 
 ## Data Visualization
 
-### [Clark County Crash Data Viewer](https://clark-county-vz-viewer.onrender.com/)
+### [Clark County Crash Data Viewer](https://charlie-henry.github.io/crash-data-viewer/)
 
 I created an interactive web map for visualizing traffic crash data in Clark County, Nevada. 
 
 {: .center}
-[![Precinct-level election shifts]({{site.baseurl}}/images/crash-map.png)](https://clark-county-vz-viewer.onrender.com/)
+[![Precinct-level election shifts]({{site.baseurl}}/images/crash-map.png)](https://charlie-henry.github.io/crash-data-viewer/)
 *Crash Data Viewer*
 
 ### [2026 Texas Primaries Election Night Interactive](https://texas-election-board.onrender.com/)
