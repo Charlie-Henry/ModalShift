@@ -30,9 +30,9 @@ As part of this project, I also deployed a public API on [RapidAPI](https://rapi
 
 ***
 
-### [CFL Negotiation list tracker](https://cfl-neg-list-website.onrender.com/)
+### [CFL Negotiation list tracker](https://charlie-henry.github.io/cfl-neg-list-website/)
 
-I built an automated data pipeline that scrapes Canadian Football League (CFL) negotiation list updates from a website, parses roster information, and publishes structured player datasets to a [public site](https://cfl-neg-list-website.onrender.com/).
+I built an automated data pipeline that scrapes Canadian Football League (CFL) negotiation list updates from a website, parses roster information, and publishes structured player datasets to a [public site](https://charlie-henry.github.io/cfl-neg-list-website/).
 
 To enrich each player profile, I developed an ML pipeline, which analyzes historical player data, college backgrounds, and pro experience to generate high level scouting summaries. These insights are served through my site and updated automatically as new players appear on negotiation lists.
 
