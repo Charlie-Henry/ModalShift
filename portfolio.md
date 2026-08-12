@@ -76,12 +76,12 @@ I created an interactive web map for visualizing traffic crash data in Clark Cou
 [![Precinct-level election shifts]({{site.baseurl}}/images/crash-map.png)](https://charlie-henry.github.io/crash-data-viewer/)
 *Crash Data Viewer*
 
-### [2026 Texas Primaries Election Night Interactive](https://texas-election-board.onrender.com/)
+### [2026 Texas Primaries Election Night Interactive](https://charlie-henry.github.io/texas-election-board/)
 
 I created an interactive county-level election map for the 2026 Democratic and Republican primaries in Texas. Heavily inspired by the "big boards" used on TV by Steve Kornacki and John King. I also set up a script that populated the map with real-time results from the Texas Secretary of State website. The repo is open source and available [here](https://github.com/Charlie-Henry/texas-election-board).
 
 {: .center}
-[![Precinct-level election shifts]({{site.baseurl}}/images/election-big-board.png)](https://texas-election-board.onrender.com/)
+[![Precinct-level election shifts]({{site.baseurl}}/images/election-big-board.png)](https://charlie-henry.github.io/texas-election-board/)
 *Election Night Interactive*
 
 
