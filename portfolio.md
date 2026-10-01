@@ -54,6 +54,12 @@ The entire pipeline is [open source](https://github.com/Charlie-Henry/atx-road-c
 [![Example post: GPOOR roadway grip reported at LAKELINE BLVD / 183 HWY SVRD, was previously FAIR. Current roadway condition is Standing water.]({{site.baseurl}}/images/road_conditions.png)](https://bsky.app/profile/atx-road-condition.bsky.social/post/3lq4lzwglsr2y)
 *Example post*
 
+I also built a [dashboard](https://charlie-henry.github.io/atx-road-conditions-website/) where anyone can view the road conditions and current traffic incidents alongside weather alerts in real time.
+
+{: .center}
+[![dashboard homepage image]({{site.baseurl}}/images/dashboard_road_conditions.png)](https://charlie-henry.github.io/atx-road-conditions-website/)
+*Road conditions dashboard*
+
 ### Voter Turnout Scraping
 
 For 2024's early voting period I set up an [ETL script](https://github.com/Charlie-Henry/atx-elections-data/tree/main/etl/travis_county_roster_scrape) that scraped live voter turnout data and plotted it alongside a comparison to the the 2020 election. 
